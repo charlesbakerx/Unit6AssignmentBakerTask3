@@ -1,1 +1,7 @@
 // Bubble Sort DESC
+
+Start time for run 1: 0.000134, End time for run 1: 0.009188, Run time: 0.009054
+Start time for run 2: 0.009337, End time for run 2: 0.010057, Run time: 0.000720
+Start time for run 3: 0.010133, End time for run 3: 0.010792, Run time: 0.000659
+
+// Above is my test run
